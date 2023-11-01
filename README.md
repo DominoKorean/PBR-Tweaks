@@ -10,6 +10,14 @@ Depending on the resource pack you've chosen in Vanilla Tweaks, locate the appro
 </br>
 </br>
 
+# Labpbr Support
+|Normals|Height Map|Rough|AO|Porosity|Emission|SSS
+|------|---|:---:|:---:|:---:|:---:|:---:|
+|✔️|✔️|✔️|❌|❌|❌|❌|
+
+</br>
+</br>
+
 # Screenshots
 Screenshots with Kappa shader and PNAPBR
 ![](images/2023-11-01_23.47.27.png)
