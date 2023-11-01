@@ -8,6 +8,25 @@
 Depending on the resource pack you've chosen in Vanilla Tweaks, locate the appropriate folder within the downloaded directory. Then, relocate the "textures" folder from that directory into the resource pack.
 
 </br>
+
+This resource pack exclusively supports LabPBR.  
+The following shader packs are not supported:
+* SEUS
+* Continuum 1.3 ~ 2.0.4
+
+</br>
+
+Additionally, it is not compatible with the following Vanilla Tweaks resource packs, as shader packs are mandatory:
+* Warm Glow
+* Twinkling Stars
+* Brighter Nether
+* Mob Spawn Indicator
+* Fullbright
+* No Fog
+* No Vignette
+* Hardcore Darkness
+
+</br>
 </br>
 
 # Labpbr Support
