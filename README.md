@@ -34,11 +34,13 @@ Additionally, it is not compatible with the following Vanilla Tweaks resource pa
 </br>
 
 # Screenshots
-Screenshots with Kappa shader and PNAPBR
+Screenshots with [PNAPBR](https://www.curseforge.com/minecraft/texture-packs/please-not-another-vanilla-pbr)
 ![](images/2023-11-01_23.47.27.png)
-![](images/2023-11-01_23.49.19.png)
 ![](images/2023-11-02_00.04.37.png)
-![](images/2023-11-02_00.16.22.png)
+![](images/2023-11-02_23.48.15.png)
+![](images/2023-11-02_23.54.30.png)
+
+[More Screenshots](images/README.md)
 
 </br>
 </br>
