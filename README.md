@@ -33,9 +33,9 @@ Furthermore, the following packs are not created as separate PBR resource packs:
 </br>
 
 # Labpbr Support
-|Normals|Height Map|Rough|AO|Porosity|Emission|SSS
-|------|---|:---:|:---:|:---:|:---:|:---:|
-|✔️|✔️|✔️|❌|❌|❌|❌|
+|Normals|Height Map|Rough|AO|Porosity|Emission|SSS|F0
+|------|---|:---:|:---:|:---:|:---:|:---:|:---:|
+|✔️|✔️|✔️|✔️|❌|❌|❌|✔️|
 
 </br>
 </br>
@@ -46,6 +46,9 @@ Screenshots with [PNAPBR](https://www.curseforge.com/minecraft/texture-packs/ple
 ![](images/2023-11-02_00.04.37.png)
 ![](images/2023-11-02_23.48.15.png)
 ![](images/2023-11-02_23.54.30.png)
+![](images/2023-11-05_16.57.27.png)
+![](images/2023-11-05_23.42.12.png)
+![](images/2023-11-05_23.44.11.png)
 
 [More Screenshots](images/README.md)
 
