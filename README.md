@@ -7,20 +7,27 @@
 # Instructions
 This resource pack exclusively supports LabPBR.  
 The following shader packs are not supported:
-* SEUS
-* Continuum 1.3 ~ 2.0.4
+- SEUS
+- Continuum 1.3 ~ 2.0.4
 
 </br>
 
 Additionally, it is not compatible with the following Vanilla Tweaks resource packs, as shader packs are mandatory:
-* Warm Glow
-* Twinkling Stars
-* Brighter Nether
-* Mob Spawn Indicator
-* Fullbright
-* No Fog
-* No Vignette
-* Hardcore Darkness
+- Warm Glow
+- Twinkling Stars
+- Brighter Nether
+- Mob Spawn Indicator
+- Fullbright
+- No Fog
+- No Vignette
+- Hardcore Darkness
+
+</br>
+
+Furthermore, the following packs are not created as separate PBR resource packs:
+- Particle, HUD, Banner Pattern / Cannot apply PBR textures
+- If only the colors are changed in the original textures / Using a different Vanilla - PBR resource pack is sufficient
+
 
 </br>
 </br>
@@ -41,6 +48,18 @@ Screenshots with [PNAPBR](https://www.curseforge.com/minecraft/texture-packs/ple
 ![](images/2023-11-02_23.54.30.png)
 
 [More Screenshots](images/README.md)
+
+</br>
+</br>
+
+# Terms of Use
+PBR Tweaks is subject to the same terms as Vanilla Tweaks, which can be found [here](https://vanillatweaks.net/terms/).  
+Additionally, you must include the following text in credits.txt:
+```
+Credits:
+Vanilla Tweaks: https://vanillatweaks.net/
+PBR Tweaks: https://github.com/DominoKorean/PBR-Tweaks
+```
 
 </br>
 </br>
