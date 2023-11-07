@@ -49,6 +49,9 @@ Screenshots with [PNAPBR](https://www.curseforge.com/minecraft/texture-packs/ple
 ![](images/2023-11-05_16.57.27.png)
 ![](images/2023-11-05_23.42.12.png)
 ![](images/2023-11-05_23.44.11.png)
+![](images/2023-11-07_23.28.17.png)
+![](images/2023-11-07_23.59.19.png)
+![](images/2023-11-07_23.29.55.png)
 
 [More Screenshots](images/README.md)
 
